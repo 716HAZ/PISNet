@@ -1,0 +1,8 @@
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000162.jpg 0,104,511,255,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000163.jpg 0,0,511,131,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000164.jpg 0,0,511,156,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000165.jpg 0,133,511,255,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000348.jpg 0,0,468,65,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000350.jpg 106,82,191,232,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000351.jpg 249,144,508,213,0
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/JPEGImages/DL2D00000355.jpg 424,40,511,133,0

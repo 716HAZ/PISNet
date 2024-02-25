@@ -1,0 +1,8 @@
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/2D00000637.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/2D00000638.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/2D00000659.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/2D00000662.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/2D00000704.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/DL2D00000041.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/DL2D00000158.png
+D:\Instance_Segmentation\Tensorflow\PISNet\new_data/Maskimages/DL2D00000159.png
